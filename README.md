@@ -53,11 +53,11 @@ Development Mode
 To start the application in development mode with hot reloading:
 
 Using npm:
-     ```sh
+     ```
      npm start
      ```
      or Using yarn:
-     ```sh
+     ```
      yarn start
      ```
 Open http://localhost:3000 in your browser to view the application.
