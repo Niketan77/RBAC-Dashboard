@@ -32,7 +32,7 @@ An interactive Role-Based Access Control (RBAC) Dashboard built with React. This
 ### Installation
 1. Clone the repository:
      ```sh
-     git clone https://github.com/yourusername/rbac-dashboard.git
+     git clone https://github.com/Niketan77/RBAC-Dashboard.git
      ```
 2. Change to the project directory:
      ```sh
