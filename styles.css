@@ -1,0 +1,63 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* Custom Navbar Brand */
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+/* Table Hover Effect */
+.table-hover tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Sorting Indicators */
+th {
+  cursor: pointer;
+}
+
+th.sort-asc::after {
+  content: " ▲";
+}
+
+th.sort-desc::after {
+  content: " ▼";
+}
+
+/* Invalid Form Input */
+.is-invalid {
+  border-color: #dc3545;
+}
+
+.invalid-feedback {
+  display: block;
+}
+
+.text-danger {
+  color: #dc3545;
+}
+
+/* Button Margin */
+.btn {
+  margin-right: 5px;
+}
+
+/* Button Hover Effects */
+.btn:hover {
+  opacity: 0.9;
+}
+
+/* Form Control Focus */
+.form-control:focus {
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: none;
+}
+
+/* Align Toast Notifications to Top Center */
+.Toastify__toast-container {
+  top: 1em;
+}
