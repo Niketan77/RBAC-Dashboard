@@ -66,13 +66,9 @@ Open http://localhost:3000 in your browser to view the application.
 To create a production build:
 
 Using npm:
-     ```sh
      npm run build
-     ```
      or Using yarn:
-     ```sh
      yarn build
-     ```
 ## Usage
 
 ### User Management
